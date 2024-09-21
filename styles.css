@@ -1,0 +1,35 @@
+body{
+    background-color: hsl(212, 45%, 89%);
+}
+
+.qr{
+    background-color: white;
+    height: 499px;
+    width: 320px;
+    border-radius: 20px;
+    position: absolute;
+    top:0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    
+    margin: auto;
+    text-align: center;
+    vertical-align: middle;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+img{
+    margin-top: 16px;
+    margin-left: 16px;
+    margin-right: 16px;
+    margin-bottom: 24px;
+}
+
+h1{
+    font-size: medium;
+}
+
+.attribution{
+    margin-top: 23.5cm;
+}
